@@ -208,5 +208,3 @@
     </tbody>
 </table>
 
-:heart: Happy Coding :clap: 🚀
-![twitter](https://img.shields.io/twitter/follow/samayunmc.svg?style=social)
